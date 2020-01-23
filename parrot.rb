@@ -6,7 +6,7 @@ def parrot
   return "Squawk!"
 end
 
-def parrot_phrase(phrase="Pretty bird!")
+def parrot(phrase="Pretty bird!")
   puts phrase
   return phrase
 end
