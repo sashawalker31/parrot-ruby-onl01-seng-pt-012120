@@ -7,7 +7,7 @@ def parrot
 end
 
 def parrot_phrase(phrase)
-  
-  return "The bird is a #{phrase}"
+  puts "Pretty bird!"
+  return "Pretty bird!"
 end
 
